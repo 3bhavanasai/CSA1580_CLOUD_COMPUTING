@@ -54,7 +54,7 @@
 
 <img width="960" alt="Screenshot_20230429_100620" src="https://user-images.githubusercontent.com/113408005/235284228-786f1c40-c821-43f8-ac63-87d25340f975.png">
 
-<img width="960" alt="Screenshot_20230429_100148" src="https://user-images.githubusercontent.com/113408005/235284073-77e02aa4-ece9-451a-a90c-5f7a2f646e57.png">
+<img width="831" alt="image" src="https://user-images.githubusercontent.com/113408005/235284336-87db77d5-10d0-4ab8-97b6-b0885490ea49.png">
 
 <img width="960" alt="Screenshot_20230429_100159" src="https://user-images.githubusercontent.com/113408005/235284080-c5267075-6d7e-4bb1-afc9-2040762f1512.png">
 
