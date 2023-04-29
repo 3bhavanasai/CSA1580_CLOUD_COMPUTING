@@ -2,6 +2,7 @@
 
 # 1.MOVIE TICKET BOOKING
 
+
 <img width="960" alt="Screenshot_20230429_100551" src="https://user-images.githubusercontent.com/113408005/235284193-4693ea3e-049e-41bc-8600-6c021a89e5f2.png">
 
 
@@ -18,6 +19,7 @@
 
 
 # 2.FLIGHT BOOKING
+
 
 <img width="960" alt="Screenshot_20230429_100551" src="https://user-images.githubusercontent.com/113408005/235283824-2879e7d6-1497-4301-bfbe-c077b5d734b2.png">
 
@@ -36,6 +38,7 @@
 
 # 3.PROPERTY AND RENTAL BOOKING
 
+
 <img width="960" alt="Screenshot_20230429_100551" src="https://user-images.githubusercontent.com/113408005/235284193-4693ea3e-049e-41bc-8600-6c021a89e5f2.png">
 
 
@@ -53,6 +56,7 @@
 
 # 4.CAR BOOKING SYSTEM
 
+
 <img width="960" alt="Screenshot_20230429_100551" src="https://user-images.githubusercontent.com/113408005/235284193-4693ea3e-049e-41bc-8600-6c021a89e5f2.png">
 
 
@@ -69,6 +73,7 @@
 
 
 # 5.LIBRARY BOOK RESERVATION
+
 
 <img width="960" alt="Screenshot_20230429_100551" src="https://user-images.githubusercontent.com/113408005/235284193-4693ea3e-049e-41bc-8600-6c021a89e5f2.png">
 
