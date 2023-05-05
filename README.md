@@ -90,4 +90,18 @@
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/113408005/235284383-9c28035f-324d-4cc4-bfba-6c480320f090.png">
 
 
+# 6 EXPERIMENT
+
+
+<img width="960" alt="Screenshot 2023-05-05 081146" src="https://user-images.githubusercontent.com/113408005/236368241-ac895571-2d14-46fc-bb18-1250901cd18f.png">
+
+
+<img width="960" alt="Screenshot 2023-05-05 081216" src="https://user-images.githubusercontent.com/113408005/236368264-2a606769-2c7b-466f-8c9f-720fcffe5fbc.png">
+
+
+<img width="960" alt="Screenshot 2023-05-05 081233" src="https://user-images.githubusercontent.com/113408005/236368290-57ccf5e0-b3fc-4d36-8acf-741254d028b5.png">
+
+
+
+
 
