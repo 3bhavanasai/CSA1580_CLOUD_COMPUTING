@@ -137,7 +137,7 @@
 <img width="960" alt="Screenshot 2023-05-05 090019" src="https://user-images.githubusercontent.com/113408005/236372310-dc5b116d-1156-48d3-a0ce-34700c62a0e1.png">
 
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/113408005/236372276-95028938-f32e-40fe-9367-fef069c1d566.png">
+<img width="495" alt="image" src="https://user-images.githubusercontent.com/113408005/236372613-09801494-ba8a-42f8-9ea1-534acfae9722.png">
 
 
 # 10 EXPERIMENT
