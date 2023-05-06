@@ -152,6 +152,18 @@
 <img width="960" alt="Screenshot 2023-05-05 085435" src="https://user-images.githubusercontent.com/113408005/236371818-a601b6e7-56e0-41b0-af80-996e139bd902.png">
 
 
+# 11 EXPERIMENT 
+
+
+<img width="960" alt="Screenshot 2023-05-06 081406" src="https://user-images.githubusercontent.com/113408005/236594610-6bbfbeae-27ea-4e8f-b434-812019259ed1.png">
+
+
+<img width="960" alt="Screenshot 2023-05-06 081442" src="https://user-images.githubusercontent.com/113408005/236594624-9594c0e6-3f94-4a49-a488-26b40c41991c.png">
+
+
+<img width="224" alt="Screenshot 2023-05-06 081545" src="https://user-images.githubusercontent.com/113408005/236594650-41f2f931-c352-43f3-9778-4e26efc3b9c7.png">
+
+
 # TEST 1
 
 
