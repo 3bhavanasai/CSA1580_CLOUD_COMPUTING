@@ -197,6 +197,17 @@
 
 # 15 EXPERIMENT
 
+# 18 EXPERIMENT
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/4bbdcfd9-0e0e-4a8c-97e6-a9c907b9e542)
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/a3baaa50-dc75-4205-bd88-181505a3606b)
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/967f83ed-a49e-460e-9264-33ff4eebe384)
+<img width="802" alt="image" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/b25d99d4-84dc-4755-a73f-bf5fb7f80257">
+
+# 20 EXPERIMENT
+<img width="960" alt="Screenshot 2023-05-24 081211" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/2820c478-1c17-460c-97a5-05b06fbe03b7">
+<img width="959" alt="Screenshot 2023-05-24 081833" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/774e256b-d912-4545-8ea7-64328e04eaf6">
+<img width="960" alt="Screenshot 2023-05-24 082417" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/8987dc8e-3491-48c6-8ff6-f80f20ae9b1b">
+
 
 
 
