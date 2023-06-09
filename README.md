@@ -208,6 +208,10 @@
 <img width="959" alt="Screenshot 2023-05-24 081833" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/774e256b-d912-4545-8ea7-64328e04eaf6">
 <img width="960" alt="Screenshot 2023-05-24 082417" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/8987dc8e-3491-48c6-8ff6-f80f20ae9b1b">
 
+# 21 EXPERIMENT
+<img width="469" alt="image" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/462b8d0e-6e06-47e6-872e-c2524e0c2e57">
+
+
 
 
 
